@@ -61,7 +61,8 @@ We have to add ads to this website, because we have to pay for the cost, and we 
 ##### [1][header pic](https://www.docwirenews.com/future-of-medicine/new-gene-therapy-approach-reduces-cost-and-improves-efficiency/) from (https://www.docwirenews.com/future-of-medicine/new-gene-therapy-approach-reduces-cost-and-improves-efficiency/)
 
 :::caution
-If you use any information on this page, please copy the following credit, and paste to "reference", or "credit" part of your work, you can give credit in your format as well, but your credit should contain at least the base information. For details, refer to ["Copyright"](https://aurorum.co/docs/Copyright).
+If you use any information from this page, please include the following credit in the "reference" or "credit" section of your work. You can format the credit according to your preferred style, but it should contain at least the essential information. For more details, refer to the ["Copyright"](https://aurorum.co/docs/Copyright) page.
 ```
 Aurorum Biodiversity Database: <About Aurorum Biodiversity Database>, Author="Shichen.Wanyan"; Organization="Aurorum.co"; time=<07/JUL/2023>; URL="<https://aurorum.co/docs/about>"
 ```
+:::
