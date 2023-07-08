@@ -60,7 +60,7 @@ We have to add ads to this website, because we have to pay for the cost, and we 
 #### Credits for this page:
 ##### [1][header pic](https://www.docwirenews.com/future-of-medicine/new-gene-therapy-approach-reduces-cost-and-improves-efficiency/) from (https://www.docwirenews.com/future-of-medicine/new-gene-therapy-approach-reduces-cost-and-improves-efficiency/)
 
-:::Note:
+:::caution
 If you use any information on this page, please copy the following credit, and paste to "reference", or "credit" part of your work, you can give credit in your format as well, but your credit should contain at least the base information. For details, refer to ["Copyright"](https://aurorum.co/docs/Copyright).
 ```
 Aurorum Biodiversity Database: <About Aurorum Biodiversity Database>, Author="Shichen.Wanyan"; Organization="Aurorum.co"; time=<07/JUL/2023>; URL="<https://aurorum.co/docs/about>"
